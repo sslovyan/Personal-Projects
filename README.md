@@ -1,4 +1,4 @@
-# Steven Slovyan - Projects Portfolio
+# Steven Slovyan - Project Portfolio
 
 Hello and welcome to my Project Portfolio!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
