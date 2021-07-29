@@ -19,4 +19,5 @@ Here's a little about me.  I'm an ex-Navy nuke that discovered data science and 
 I plan on adding the following sections in the near future:
 
 4. Data Engineering
-5. Web Development
+5. D3
+6. Games
