@@ -2,13 +2,13 @@
 
 Hello and welcome to my Project Portfolio!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Index
+## Table of Contents
 
 This repository holds all of my personal projects.  They fit into three different categories.
 
-1. Data Science
-2. Lean Six Sigma
-3. Tableau Public
+1. [Data Science](https://github.com/sslovyan/Personal-Projects/tree/main/Data%20Science)
+2. [Lean Six Sigma](https://github.com/sslovyan/Personal-Projects/tree/main/Lean%20Six%20Sigma)
+3. [Tableau Public](https://github.com/sslovyan/Personal-Projects/tree/main/Tableau%20Public)
 
 ## Background
 
