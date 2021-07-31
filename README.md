@@ -12,7 +12,7 @@ This repository holds all of my personal projects.  They fit into three differen
 
 ## Background
 
-Here's a little about me.  I'm an ex-Navy nuke that discovered data science and engineering while earning my MBA.  I learned a lot, but I wanted to learn more so I enrolled in a Data Science and Engineering graduate program.
+Here's a little about me.  I'm an ex-[Navy nuke](https://www.thebalancecareers.com/navy-enlisted-rating-descriptions-nuclear-field-3345847) that discovered data science and engineering while earning my MBA.  As someone who enjoys math and science, I was instantly hooked.  I immediately pivoted my career into the data analytics field, finished my MBA with a concentration in Business Analytics, and followed up my MBA with a MS in Data Science and Engineering.
 
 ## Future Content
 
