@@ -1,4 +1,5 @@
-<center><h1>Fatal Police Shootings in the U.S.</h1><img src='https://i.imgur.com/SQfyQ4z.png' height='150' width='900'></center>
+# Fatal Police Shootings in the U.S.
+<img src='https://i.imgur.com/SQfyQ4z.png' height='150' width='900'>
 
 ## Highlights
 
