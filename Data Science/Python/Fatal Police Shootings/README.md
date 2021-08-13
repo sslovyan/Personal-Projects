@@ -1,6 +1,9 @@
 # Fatal Police Shootings in the U.S.
 <img src='https://i.imgur.com/SQfyQ4z.png' height='150' width='900'>
 
+## Motivation
+To better understand how often fatal police shootings occur in the U.S. and where they have occurred the most.
+
 ## Highlights
 
 ## What I learned
@@ -20,8 +23,8 @@ The README.md file has a link to download the Washington Post csv file.
 <img src='https://i.imgur.com/jJDPiLW.png' height='500' width='1000'>
 <br>
 
-## Motivation
-Awareness of fatal police shootings in the U.S. has gained more awareness over the last couple of years.  Intellectual curiousity led me to explore the dataset further, cluster cities together, and attempt to predict the number of fatal police shootings in major cities.
+## Purpose
+Awareness of fatal police shootings in the U.S. has gained more awareness over the last couple of years.  Intellectual curiousity led me to explore the dataset, cluster cities together, and attempt to predict the number of fatal police shootings in major cities.
 
 ## Problem Statement
 
