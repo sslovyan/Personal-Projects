@@ -12,7 +12,7 @@ This repository holds all of my personal projects.  They fit into three differen
 
 ## Background
 
-I'm an ex-[Navy nuke](https://www.thebalancecareers.com/navy-enlisted-rating-descriptions-nuclear-field-3345847) that discovered data science and engineering while earning my MBA.  As someone who enjoys math and science, I was instantly hooked.  I immediately pivoted my career into the data analytics field, finished my MBA with a concentration in Business Analytics, and followed up my MBA with a MS in Data Science and Engineering.  
+I'm an ex-[Navy nuke](https://www.thebalancecareers.com/navy-enlisted-rating-descriptions-nuclear-field-3345847) that discovered data science and engineering while earning my MBA.  As someone who enjoys math and science, I was instantly hooked.  I immediately pivoted my career into the data analytics field, finished my MBA with a concentration in Business Analytics, and followed up my MBA with an MS in Data Science and Engineering.  
 
 I'm always looking for ways to stretch my brain and learn something new.
 
@@ -26,3 +26,5 @@ I plan on adding the following sections in the near future:
 4. Data Engineering
 5. D3
 6. Games
+7. Web Design
+8. App Development
