@@ -24,7 +24,7 @@ The README.md file has a link to download the Washington Post csv file.
 <br>
 
 ## Purpose
-Awareness of fatal police shootings in the U.S. has gained more awareness over the last couple of years.  Intellectual curiousity led me to explore the dataset, cluster cities together, and attempt to predict the number of fatal police shootings in major cities.
+Awareness of fatal police shootings in the U.S. has gained more awareness over the last couple of years.  Intellectual curiousity has led me to explore the dataset and ultimately create a dashboard where users can view the data.
 
 ## Problem Statement
 
